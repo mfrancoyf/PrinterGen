@@ -11,7 +11,7 @@ cd PrinterGen
 mvn spring-boot:run
 ```
 
-Depois acesse: **http://localhost:9090**
+Depois acesse: **http://localhost:3080**
 
 A primeira execução cria automaticamente o arquivo do banco de dados na pasta `data/`.
 
